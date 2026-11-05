@@ -354,7 +354,8 @@ Aspiring Data Analyst | Python | SQL | Power BI | Excel
 
 
 
-📌 LinkedIn: https://linkedin.com/in/sai-chaitanya-89b9a03b
+📌 LinkedIn: linkedin.com/in/sai-chaitanya-89b9a03b1
+
 
 
 
